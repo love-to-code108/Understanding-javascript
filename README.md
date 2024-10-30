@@ -1,1 +1,1 @@
-# Understanding-javascript
+# Joy of Understanding javascript
